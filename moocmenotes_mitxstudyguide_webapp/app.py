@@ -1,3 +1,7 @@
+"""
+Authors: Anurag Purker
+Developed using GitHub CoPilot
+"""
 from flask import Flask, render_template, jsonify
 
 app = Flask(__name__)
